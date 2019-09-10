@@ -1,5 +1,4 @@
-def greeting=(phrase)
-  puts greeting
+def say_hello_world_ten_times
   
 end
 phrase = "Hello World!"
