@@ -1,5 +1,5 @@
 def greeting=(phrase)
-  puts
+  puts greeting
   
 end
 phrase = "Hello World!"
